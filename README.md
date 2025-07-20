@@ -28,6 +28,12 @@ MockAce is a full-stack, AI-powered mock interview platform built using **React*
 ## 📷 Screenshots
 | HOME
 <img width="1602" height="900" alt="Home" src="https://github.com/user-attachments/assets/386c69b4-9e86-46be-85ed-05e32608bce1" />
+<img width="1896" height="892" alt="Screenshot 2025-07-21 005800" src="https://github.com/user-attachments/assets/ba75527b-171e-401a-a0bb-c78d72eaf6ba" />
+
+
+<img width="1898" height="885" alt="2" src="https://github.com/user-attachments/assets/44335274-8c15-426e-8e05-8a4b92997491" />
+
+
 
 | DASHBOARD
 
