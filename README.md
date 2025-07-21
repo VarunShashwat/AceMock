@@ -52,8 +52,8 @@ MockAce is a full-stack, AI-powered mock interview platform built using **React*
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/VarunShashwat/mockace.git
-cd mockace
+git clone https://github.com/VarunShashwat/AceMock.git
+
 
 pnpm install
 ```
