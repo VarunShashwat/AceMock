@@ -1,7 +1,7 @@
 # 🎯 AceMock — Train Today, Ace Tomorrow
 
 **Ace your interviews with AI!**  
-MockAce is a full-stack, AI-powered mock interview platform built using **React**, **Google Gemini AI**, **Firebase**, and **Clerk**. It helps users prepare for interviews through personalized, intelligent sessions and real-time feedback.
+AceMock is a full-stack, AI-powered mock interview platform built using **React**, **Google Gemini AI**, **Firebase**, and **Clerk**. It helps users prepare for interviews through personalized, intelligent sessions and real-time feedback.
 
 ## 🚀 Features
 
